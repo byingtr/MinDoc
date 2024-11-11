@@ -1,6 +1,6 @@
 title: The Kalevala
 email: your-email@example.com
-description: by Authors
+description: by Elias Lönnrot
 
 baseurl: "/MinDoc" # the subpath of your site. Change it if the name of your repository is other than "mindoc"
 
