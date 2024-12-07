@@ -16,7 +16,7 @@ format:
 credit_(IPTC):
 date_created_(IPTC):
 
-_path: assets/img/Newspaper Map.JPG
+_path: assets/img/main_page.jpg
 order: '01'
 layout: image_description
 ---
